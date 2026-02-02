@@ -115,3 +115,11 @@ footer p {
         font-size: 1.5rem;
     }
 }
+/* Стилі для гілки one */
+body {
+    background-color: #f0f8ff;
+}
+
+header {
+    background: linear-gradient(135deg, #ff6b6b, #4ecdc4);
+}
